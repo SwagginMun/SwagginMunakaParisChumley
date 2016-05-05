@@ -1,0 +1,66 @@
+ #nav1 a {
+            display: list-item;
+            padding-left: 25px;
+            padding-right: 25px;
+            padding-top: 5px;
+            padding-bottom: 5px;  
+            background-color: #ADADAD;
+            margin-top: 10px;
+            margin-bottom: 10px;
+            margin-right: 125px;
+            margin-left: 125px; 
+        }
+        
+        ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+            background-color: #FFF4E2;
+}
+
+        li {
+            float: left;
+}
+
+        li a {
+            display: block;
+            color: white;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+}
+
+        li a:hover {
+            background-color: #111;
+}
+        body {
+            
+            background: linear-gradient(#FCEBBE, #FFFFFF);            
+        }
+        
+        header {
+            letter-spacing: 45px;
+            font-size: 50px;
+            text-align: center;
+            padding-bottom: 30px;
+            padding-top: 30px;
+            background-color: #EBD8C7;
+        }
+        @font-face {
+            font-family: Bonnie;
+            src: url(ARBONNIE.ttf);
+        }
+        
+        header {
+            font-family: Bonnie;
+            
+}
+
+        .LOGO { 
+            
+            width: 11px;
+            height: 10px;
+    
+    
+}
